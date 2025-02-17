@@ -1,1 +1,1 @@
-<h1>Heelo, I'm Sneha</h1>
+<h1>Hello, I'm Sneha</h1>
