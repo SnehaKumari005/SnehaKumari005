@@ -1,93 +1,121 @@
+<div align="center">
+
 # 👋 Hi, I'm Sneha Kumari
 
-<h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🚀 Tech Explorer</h3>
+### 💻 Full Stack Developer • 🌐 Web Developer • 🤖 ML Learner
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+Projects+%26+Learning+Every+Day;Exploring+AI+%26+Full+Stack+Development;Turning+Ideas+Into+Reality!" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;I+love+learning+new+technologies;Currently+exploring+Machine+Learning;Building+projects+and+growing+every+day!" />
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌱 About Me
+
+Hi! I'm **Sneha**, a Computer Science Engineering student who enjoys
+learning programming and building projects.
 
 - 🎓 B.Tech Computer Science Engineering Student
-- 💻 Working with C, C++, HTML, CSS, JavaScript & Python
+- 💻 Comfortable with C, C++, HTML, CSS, JavaScript & Python
 - 🤖 Currently learning Machine Learning
-- 🌱 Exploring new technologies and improving my skills
-- 🚀 Interested in building useful and real-world projects
+- 🌐 Interested in Web Development
+- 🚀 Love turning ideas into practical projects
+- 🏆 Participated in 5 Hackathons
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧩 My Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
-</p>
+| 💻 Programming | 🌐 Web Development | 🤖 Currently Learning |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=c,cpp,python" /> | <img src="https://skillicons.dev/icons?i=html,css,js" /> | **Machine Learning** |
+| C • C++ • Python | HTML • CSS • JavaScript | ML Fundamentals |
 
-### 🌱 Currently Learning
+---
 
-- 🤖 Machine Learning (ML)
 ---
 
 ## 🚀 Projects
 
-### 🌐 Personal Portfolio
-A personal portfolio website showcasing my skills, projects, achievements, and learning journey.
+<div align="center">
 
-🔗 [View Portfolio](YOUR_PORTFOLIO_LINK)
+### 🌐 Personal Portfolio
+
+A personal website showcasing my skills, projects, achievements,
+and my journey as a Computer Science student.
+
+**Status:** 🛠️ Building
+
+---
 
 ### 🔍 TruthXens
-AI-powered fake news detection system.
 
-🔗 [View Project](YOUR_TRUTHXENS_LINK)
+An AI-based project focused on detecting and identifying
+fake news.
 
-### 🤖 AI/ML Projects
-Exploring Machine Learning and building projects while learning ML.
+**Status:** 🛠️ Project Development
+
+---
+
+### 🤖 Machine Learning Journey
+
+Exploring Machine Learning concepts and building small
+projects while learning.
+
+**Status:** 🌱 Learning & Building
+
+</div>
 
 ---
 
 ## 🏆 Achievements
 
-🏅 Participated in **5 Hackathons**
+<div align="center">
 
-🥇 **Top 3** in **3 Hackathons**
+🏅 **5 Hackathons Participated**
 
----
+🥉 **Top 3 in 3 Hackathons**
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnehaKumari005&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaKumari005&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Journey
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SnehaKumari005&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=SnehaKumari005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
 
-## 🌐 Connect With Me
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaKumari005&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-<p align="center">
-  <a href="https://github.com/SnehaKumari005">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<br><br>
 
-   <a href="https://www.linkedin.com/in/snehakumari31/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-</p>
+<img src="https://streak-stats.demolab.com?user=SnehaKumari005&theme=tokyonight&hide_border=true" width="60%" />
+
+</div>
 
 ---
 
-<h3 align="center">✨ Code • Create • Innovate ✨</h3>
+## 🌐 Let's Connect
 
-<p align="center">
-  Thanks for visiting my profile! ❤️
-</p>
+<div align="center">
+
+<a href="https://github.com/SnehaKumari005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Learn • Build • Grow ✨
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
