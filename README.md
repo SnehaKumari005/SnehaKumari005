@@ -34,8 +34,12 @@
 ### 🌐 Personal Portfolio
 A personal portfolio website showcasing my skills, projects, achievements, and learning journey.
 
+🔗 [View Portfolio](YOUR_PORTFOLIO_LINK)
+
 ### 🔍 TruthXens
 AI-powered fake news detection system.
+
+🔗 [View Project](YOUR_TRUTHXENS_LINK)
 
 ### 🤖 AI/ML Projects
 Exploring Machine Learning and building projects while learning ML.
